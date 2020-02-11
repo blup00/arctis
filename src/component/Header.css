@@ -1,0 +1,41 @@
+* {
+    font-weight: 500;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #99ffcc;
+    padding: 0px 25px;
+}
+
+.info {
+    margin: 10px;
+    margin-right: auto;
+    display: flex;
+}
+
+.info div {
+    padding-left: 5px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding-left: 1rem;
+}
+
+.profilepic {
+    border-radius: 40px;
+}
+
+@media screen and (max-width: 640px) {
+    ul {
+        display: flex;
+        flex-direction: column;
+    }
+  }
