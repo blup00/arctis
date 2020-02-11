@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arctis/static/css/main.84da189a.chunk.css",
+    "main.js": "/arctis/static/js/main.61b9b7de.chunk.js",
+    "main.js.map": "/arctis/static/js/main.61b9b7de.chunk.js.map",
+    "runtime-main.js": "/arctis/static/js/runtime-main.8eabdeeb.js",
+    "runtime-main.js.map": "/arctis/static/js/runtime-main.8eabdeeb.js.map",
+    "static/js/2.846fa82d.chunk.js": "/arctis/static/js/2.846fa82d.chunk.js",
+    "static/js/2.846fa82d.chunk.js.map": "/arctis/static/js/2.846fa82d.chunk.js.map",
+    "index.html": "/arctis/index.html",
+    "precache-manifest.51fe2b51e3bf370b060af663e4caa369.js": "/arctis/precache-manifest.51fe2b51e3bf370b060af663e4caa369.js",
+    "service-worker.js": "/arctis/service-worker.js",
+    "static/css/main.84da189a.chunk.css.map": "/arctis/static/css/main.84da189a.chunk.css.map",
+    "static/js/2.846fa82d.chunk.js.LICENSE.txt": "/arctis/static/js/2.846fa82d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eabdeeb.js",
+    "static/js/2.846fa82d.chunk.js",
+    "static/css/main.84da189a.chunk.css",
+    "static/js/main.61b9b7de.chunk.js"
+  ]
+}
